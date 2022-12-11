@@ -1,0 +1,156 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+p {
+   line-height: 2;
+}
+
+h1{
+    color: #285430;
+    font-size: 90px;
+    margin: 100px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    }
+
+h2 {
+    color: #5F8D4E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+
+h3 {
+    color: #285430;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 30px;
+}
+
+hr {
+   border: dotted #557153 6px;
+    width: 5%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+a{
+    color: #285430;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.pro {
+text-decoration: underline;    
+}
+.top-container {
+    background-color: #eceae1;
+    position: relative;
+    height: 40rem;
+    padding: 5rem;
+}
+.intro {
+    width: 50%;
+    margin: auto;
+}
+
+.bottom-container {
+    background-color: #A4BE7B;
+    padding: 30px;
+    margin-top: 80px;
+
+}
+
+.image1 {
+    width: 300px;
+position: relative;
+left: 30%;
+bottom: 15%;
+}
+
+.image2 {
+    position: absolute;
+    right: 75%;
+    bottom: 55%;
+    
+}
+
+.image3 {
+    position: absolute;
+    right: 65%;
+    Top: 45%;
+}
+
+.image4 {
+    width: 15%;
+    position: absolute;
+    left: 80%;
+
+}
+
+.profile {
+    padding: 10%;
+}
+
+.skill-row {
+   width: 50%;
+   margin: 100px auto 100px auto;
+   
+}
+
+.HTML {
+    float: left;
+    width: 10%;
+}
+
+.CSS {
+    float: right;
+    width: 10%;
+}
+
+.JS {
+ float: left;
+    width: 10%;
+}
+
+.MATLAB {
+    float: right;
+    width: 10%;
+
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 40px;
+}
+
+.btn {
+    background: #3498db;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+
+  .copyright {
+    color : #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
